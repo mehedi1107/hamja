@@ -2,11 +2,11 @@
   "name": "porfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://mehedi1107.github.io/Porfolio",
+  "homepage": "https://mehedi11074.github.io/personal/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
