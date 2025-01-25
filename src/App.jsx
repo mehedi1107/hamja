@@ -1,15 +1,15 @@
 
 import './App.css'
 import Navber from './component/Navber/Navber'
-import {Outlet} from "react-router";
+import { Outlet } from "react-router";
 
 function App() {
-  
+
 
   return (
-    <div> 
+    <div>
       <Navber></Navber>
-        <Outlet></Outlet>
+      <Outlet></Outlet>
 
     </div>
   )
