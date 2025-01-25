@@ -2,7 +2,7 @@
   "name": "porfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://mehedi11074.github.io/personal/",
+  "homepage": "https://mehedi1107.github.io/portfolio2/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
